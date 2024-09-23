@@ -1,3 +1,5 @@
+![Image_10](https://github.com/user-attachments/assets/04c4af92-0810-40ea-bc10-706356c0f1ec)
+
 # Data-Collection-Process
 
 This project captures video streams from multiple RTSP cameras, processes the frames, and displays them in a 2x2 grid. It also saves periodic screenshots of the streams.
